@@ -1,12 +1,31 @@
-﻿Console.WriteLine("Введите число: ");
+﻿Console.Write("Введите число: ");
 int numberA = int.Parse(Console.ReadLine ());
-int numberB = numberA * (-1);
-while(numberB < numberA);
+int alt_numberA = numberA * (-1);
+int min = 0;
+int max = 0;
+
+if (numberA > alt_numberA)
 {
-    Console.WriteLine(numberB);
-    numberB++;
+    max = numberA;
+    min = alt_numberA;
+}
+else
+{
+    max = alt_numberA;
+    min = numberA;
+}
+int i = min;
+while (i = max + 1);
+{
+    Console.WriteLine(i);
+    i++;
 }
 
+
+//    Console.WriteLine(numberB);
+//    numberB++;
+
+//while(numberB < numberA);
 //{
 //   Console.WriteLine("выводим числа: " + numberA);
 //}
