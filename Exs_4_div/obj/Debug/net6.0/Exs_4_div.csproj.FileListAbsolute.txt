@@ -1,0 +1,15 @@
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/bin/Debug/net6.0/Exs_4_div
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/bin/Debug/net6.0/Exs_4_div.deps.json
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/bin/Debug/net6.0/Exs_4_div.runtimeconfig.json
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/bin/Debug/net6.0/Exs_4_div.dll
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/bin/Debug/net6.0/Exs_4_div.pdb
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/obj/Debug/net6.0/Exs_4_div.csproj.AssemblyReference.cache
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/obj/Debug/net6.0/Exs_4_div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/obj/Debug/net6.0/Exs_4_div.AssemblyInfoInputs.cache
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/obj/Debug/net6.0/Exs_4_div.AssemblyInfo.cs
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/obj/Debug/net6.0/Exs_4_div.csproj.CoreCompileInputs.cache
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/obj/Debug/net6.0/Exs_4_div.dll
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/obj/Debug/net6.0/refint/Exs_4_div.dll
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/obj/Debug/net6.0/Exs_4_div.pdb
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/obj/Debug/net6.0/Exs_4_div.genruntimeconfig.cache
+/Users/Alekseisemenov/Documents/Exsamples/Exs_4_div/obj/Debug/net6.0/ref/Exs_4_div.dll
