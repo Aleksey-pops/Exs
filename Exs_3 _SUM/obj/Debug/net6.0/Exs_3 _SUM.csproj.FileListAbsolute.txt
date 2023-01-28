@@ -1,0 +1,15 @@
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/bin/Debug/net6.0/Exs_3 _SUM
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/bin/Debug/net6.0/Exs_3 _SUM.deps.json
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/bin/Debug/net6.0/Exs_3 _SUM.runtimeconfig.json
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/bin/Debug/net6.0/Exs_3 _SUM.dll
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/bin/Debug/net6.0/Exs_3 _SUM.pdb
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/obj/Debug/net6.0/Exs_3 _SUM.csproj.AssemblyReference.cache
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/obj/Debug/net6.0/Exs_3 _SUM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/obj/Debug/net6.0/Exs_3 _SUM.AssemblyInfoInputs.cache
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/obj/Debug/net6.0/Exs_3 _SUM.AssemblyInfo.cs
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/obj/Debug/net6.0/Exs_3 _SUM.csproj.CoreCompileInputs.cache
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/obj/Debug/net6.0/Exs_3 _SUM.dll
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/obj/Debug/net6.0/refint/Exs_3 _SUM.dll
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/obj/Debug/net6.0/Exs_3 _SUM.pdb
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/obj/Debug/net6.0/Exs_3 _SUM.genruntimeconfig.cache
+/Users/Alekseisemenov/Documents/Exsamples/Exs_3 _SUM/obj/Debug/net6.0/ref/Exs_3 _SUM.dll
